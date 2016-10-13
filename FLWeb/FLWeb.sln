@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLWeb", "FLWeb\FLWeb.csproj", "{559616DE-C7FA-4038-9C24-4397AFFB2D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebINIT", "WebINIT\WebINIT.csproj", "{77CD0EA0-C20B-48FD-B7E1-B950ECF53EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebINIT.Tests", "WebINIT.Tests\WebINIT.Tests.csproj", "{080E9C86-E019-4B81-80FD-9EF227E25233}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{559616DE-C7FA-4038-9C24-4397AFFB2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{559616DE-C7FA-4038-9C24-4397AFFB2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{559616DE-C7FA-4038-9C24-4397AFFB2D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CD0EA0-C20B-48FD-B7E1-B950ECF53EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CD0EA0-C20B-48FD-B7E1-B950ECF53EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CD0EA0-C20B-48FD-B7E1-B950ECF53EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CD0EA0-C20B-48FD-B7E1-B950ECF53EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080E9C86-E019-4B81-80FD-9EF227E25233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080E9C86-E019-4B81-80FD-9EF227E25233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080E9C86-E019-4B81-80FD-9EF227E25233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080E9C86-E019-4B81-80FD-9EF227E25233}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
